@@ -1,0 +1,1003 @@
+Year,Sex,Age,ARTStage,FuncStatus,MaritStatus,Occup,Clinicalstage,CD4_Check,StartART
+2000,M,52,EL,B,Married ,UE,3,0,YES
+2000,M,35,EL,W,Married ,SE,3,224,YES
+2001,F,40,EL,A,Widower,UE,4,188,NO
+2000,M,38,EL,W,Married ,E,3,157,NO
+2000,M,32,EL,W,Divorced,SE,2,165,NO
+2001,M,32,EL,W,Married ,SE,3,327,NO
+2001,F,27,EL,A,Divorced,SE,3,133,NO
+2001,F,37,EL,W,Divorced,UE,3,126,NO
+2002,M,31,EL,W,NeverMarried,SE,3,49,NO
+2003,F,45,EL,A,Divorced,UE,3,80,NO
+2002,F,28,EL,B,Divorced,UE,4,143,NO
+2002,F,45,EL,A,Widower,SE,4,728,NO
+2002,F,28,EL,A,Divorced,UE,4,94,YES
+2003,M,24,EL,W,NeverMarried,UE,3,116,NO
+2002,F,28,EL,W,Married ,UE,4,22,NO
+2003,F,43,EL,A,Widower,E,4,121,NO
+2003,M,34,EL,B,Married ,E,4,35,NO
+2003,F,21,EL,W,Married ,UE,4,118,NO
+2002,F,45,EL,A,Widower,UE,4,377,NO
+2002,M,37,EL,A,Married ,SE,2,95,NO
+2002,F,25,EL,W,NeverMarried,UE,3,133,NO
+2002,M,30,EL,W,Divorced,UE,3,333,NO
+2000,M,48,EL,W,NeverMarried,UE,3,216,NO
+2000,F,27,EL,W,NeverMarried,UE,4,219,NO
+2000,F,28,EL,W,NeverMarried,SE,2,152,NO
+2000,M,35,EL,A,NeverMarried,UE,3,226,NO
+2003,M,36,EL,W,NeverMarried,SE,3,90,NO
+2000,F,45,EL,B,Divorced,UE,4,115,NO
+2000,F,48,EL,A,Divorced,E,3,247,NO
+2000,F,43,EL,A,Widower,UE,3,56,YES
+2000,F,32,EL,A,NeverMarried,UE,3,119,NO
+2000,F,54,EL,A,Married ,UE,0,81,NO
+2000,M,28,EL,W,NeverMarried,UE,4,130,YES
+2000,F,28,EL,W,Divorced,UE,3,149,NO
+2000,M,28,EL,B,Married ,UE,4,144,NO
+2001,M,75,EL,A,Divorced,UE,4,172,NO
+2000,F,38,EL,B,Married ,UE,3,21,NO
+2000,M,50,EL,B,Divorced,UE,4,44,NO
+2000,F,30,EL,W,Widower,UE,2,86,NO
+2000,F,30,EL,A,Married ,UE,3,90,NO
+2000,M,45,EL,B,NeverMarried,E,3,108,NO
+2000,F,25,EL,A,Divorced,UE,3,148,NO
+2000,M,14,EL,W,NeverMarried,ST,3,50,NO
+2000,M,20,EL,A,NeverMarried,E,3,82,NO
+2000,M,29,EL,W,Married ,UE,4,23,NO
+2000,M,23,EL,W,NeverMarried,E,2,26,NO
+2000,F,33,EL,A,Divorced,UE,3,273,NO
+2000,F,30,EL,B,Divorced,SE,3,126,NO
+2000,M,35,EL,W,Married ,E,3,82,NO
+2000,F,20,EL,A,NeverMarried,ST,4,111,NO
+2000,F,33,EL,W,Separated,UE,4,136,NO
+2000,M,50,EL,A,Married ,E,4,149,NO
+2000,M,24,EL,W,NeverMarried,SE,3,149,NO
+2000,F,33,EL,W,Married ,SE,3,75,NO
+2000,F,28,EL,A,Married ,UE,3,0,NO
+2000,F,30,EL,W,NeverMarried,UE,3,129,NO
+2000,M,43,EL,A,Married ,O,3,180,NO
+2000,F,28,EL,B,Widower,UE,3,317,NO
+2000,M,23,EL,A,Married ,O,3,93,NO
+2000,F,28,EL,A,Divorced,UE,4,23,NO
+2000,F,37,EL,B,Divorced,UE,3,153,NO
+2000,F,27,EL,W,Divorced,UE,3,0,NO
+2000,F,44,EL,A,Widower,UE,4,84,NO
+2000,M,32,EL,B,NeverMarried,UE,4,6,NO
+2000,F,26,EL,W,NeverMarried,UE,3,105,YES
+2000,F,44,EL,B,Married ,UE,3,290,NO
+2000,M,34,EL,B,Married ,O,3,51,NO
+2000,F,38,EL,W,Divorced,E,2,104,NO
+2000,M,40,EL,B,Married ,E,3,75,NO
+2000,F,31,EL,W,Married ,UE,0,81,NO
+2000,M,25,EL,B,Married ,O,4,0,NO
+2000,F,39,OA,W,Divorced,UE,2,167,NO
+2000,M,39,EL,B,Married ,UE,4,8,NO
+2000,M,24,EL,W,Married ,UE,3,199,NO
+2000,M,35,EL,B,Married ,UE,4,0,NO
+2000,M,54,OA,A,Married ,E,3,82,NO
+1999,M,36,OA,W,Married ,UE,3,0,NO
+2000,F,20,EL,W,Widower,UE,4,49,NO
+2000,F,32,EL,A,Married ,UE,3,61,NO
+2001,F,25,EL,W,Divorced,E,3,161,NO
+2001,M,42,EL,B,NeverMarried,UE,3,48,NO
+1999,M,32,EL,W,Divorced,UE,4,15,YES
+2001,F,26,EL,B,Widower,UE,4,128,NO
+2002,F,53,EL,W,Married ,UE,3,100,NO
+2002,M,22,EL,W,Married ,O,3,230,NO
+2003,M,46,EL,W,Widower,SE,0,100,NO
+2002,F,24,EL,B,Widower,UE,2,182,NO
+2002,F,27,EL,B,Widower,UE,4,28,NO
+2002,F,25,EL,A,Divorced,ST,3,0,YES
+2002,F,24,EL,W,Widower,UE,3,224,NO
+2002,M,45,EL,A,Widower,UE,4,40,NO
+2002,M,41,EL,A,Widower,UE,3,73,NO
+2002,F,50,EL,W,Divorced,UE,4,118,YES
+2002,F,31,EL,A,NeverMarried,UE,3,71,NO
+2002,F,37,EL,W,Divorced,UE,4,110,NO
+2001,M,27,EL,W,NeverMarried,SE,2,64,NO
+2001,F,20,EL,A,Divorced,UE,3,247,NO
+2002,M,30,EL,W,NeverMarried,UE,3,154,YES
+2001,M,45,EL,B,Married ,UE,3,0,NO
+2002,F,28,EL,W,Divorced,UE,3,230,NO
+2001,F,28,EL,W,Married ,E,3,10,NO
+2003,F,25,EL,B,Divorced,UE,3,124,NO
+2003,F,40,EL,A,Married ,UE,3,0,NO
+2003,F,30,EL,W,NeverMarried,UE,3,115,NO
+2003,F,28,EL,W,Married ,UE,0,145,NO
+2003,F,33,EL,W,Married ,UE,3,93,NO
+2003,F,20,EL,A,Widower,UE,3,188,NO
+2001,M,22,EL,W,NeverMarried,UE,3,93,NO
+2002,M,25,EL,W,NeverMarried,E,2,186,NO
+2001,M,32,EL,A,NeverMarried,UE,3,0,NO
+2002,M,38,EL,W,Separated,UE,4,122,NO
+2002,M,27,EL,W,NeverMarried,UE,3,100,YES
+2003,M,25,EL,A,NeverMarried,UE,3,0,NO
+2003,F,35,EL,A,Divorced,SE,3,183,NO
+2001,F,39,EL,W,Married ,SE,3,145,NO
+2002,M,40,EL,W,NeverMarried,SE,3,68,NO
+2002,M,38,EL,W,Married ,SE,3,95,NO
+2002,M,39,EL,W,NeverMarried,UE,3,78,NO
+1999,F,18,EL,W,NeverMarried,ST,3,145,NO
+2001,M,28,EL,W,NeverMarried,O,3,356,NO
+1999,M,30,EL,W,NeverMarried,UE,3,172,NO
+2001,F,32,EL,W,Divorced,UE,1,147,YES
+2002,M,25,EL,W,Married ,O,2,37,NO
+2000,M,38,EL,B,Married ,SE,3,33,NO
+2000,F,23,EL,A,NeverMarried,E,3,55,NO
+2001,M,45,EL,W,Married ,UE,3,0,YES
+2000,F,20,EL,W,NeverMarried,UE,2,140,NO
+2000,F,20,EL,W,Married ,UE,2,179,YES
+2000,M,26,EL,B,Married ,UE,4,112,NO
+1999,F,35,EL,A,NeverMarried,UE,3,150,NO
+1999,F,30,EL,W,Divorced,UE,3,95,NO
+2000,F,29,EL,W,Married ,UE,2,112,NO
+2000,F,35,EL,W,Divorced,UE,3,181,NO
+2000,F,27,EL,B,Divorced,UE,4,141,NO
+2000,M,22,EL,B,NeverMarried,SE,2,95,NO
+2001,M,45,EL,W,Married ,SE,3,28,NO
+2001,F,48,EL,B,Divorced,UE,4,126,NO
+1999,F,30,EL,B,Divorced,UE,4,53,YES
+2001,M,35,EL,W,Widower,O,3,67,NO
+2000,M,41,EL,W,NeverMarried,SE,1,148,NO
+2000,F,27,EL,A,Divorced,UE,2,108,NO
+2000,F,19,EL,W,Divorced,UE,3,0,NO
+2000,F,23,EL,A,NeverMarried,UE,3,101,NO
+2000,M,38,EL,W,Married ,O,3,66,NO
+2000,F,23,EL,A,Widower,UE,3,101,NO
+2000,M,35,EL,W,Divorced,UE,3,61,NO
+2000,M,38,EL,B,Married ,O,3,162,NO
+2001,F,25,EL,W,Divorced,UE,3,170,NO
+2001,M,35,EL,W,Married ,O,4,78,YES
+2000,F,23,EL,W,Divorced,UE,3,209,NO
+2001,F,43,EL,W,Divorced,E,1,103,NO
+2000,F,30,EL,A,Divorced,UE,3,149,NO
+2000,M,30,EL,B,Married ,O,3,202,NO
+2000,M,35,EL,B,Married ,E,4,37,NO
+2000,M,28,EL,W,Married ,O,2,169,NO
+2000,F,28,EL,W,NeverMarried,UE,4,33,NO
+1999,F,23,EL,B,Widower,UE,2,147,NO
+2001,M,38,EL,A,Widower,SE,4,66,NO
+1999,F,43,EL,A,Divorced,UE,4,7,NO
+1999,F,24,EL,W,Divorced,UE,3,563,YES
+1999,M,54,EL,A,Divorced,UE,0,136,YES
+2001,M,45,EL,A,NeverMarried,SE,3,39,NO
+2000,M,36,EL,B,NeverMarried,UE,4,3,NO
+2000,M,38,EL,W,NeverMarried,UE,3,121,NO
+2001,M,27,EL,W,Married ,O,1,91,NO
+2000,M,40,EL,B,Married ,UE,4,23,NO
+1999,F,39,EL,A,Married ,O,3,144,NO
+2000,F,28,EL,A,Divorced,UE,2,112,NO
+1999,F,31,EL,A,NeverMarried,UE,3,66,NO
+1999,M,25,EL,W,NeverMarried,UE,3,185,NO
+2001,F,38,EL,W,Divorced,O,2,72,NO
+2000,F,13,EL,A,NeverMarried,UE,3,134,YES
+2000,F,25,EL,W,Separated,UE,4,79,NO
+2000,M,38,EL,W,Married ,SE,4,18,NO
+1999,F,33,EL,B,Divorced,UE,4,0,NO
+2000,M,24,EL,W,NeverMarried,SE,4,45,NO
+2000,M,28,EL,W,NeverMarried,UE,2,59,NO
+2000,F,40,EL,B,NeverMarried,UE,3,0,NO
+2001,F,25,EL,W,Divorced,UE,3,40,NO
+2000,F,20,EL,B,Divorced,UE,3,245,NO
+2001,M,50,EL,B,Widower,E,4,36,NO
+2001,M,34,EL,W,NeverMarried,O,3,13,NO
+2000,F,37,EL,W,NeverMarried,E,2,95,NO
+2000,M,37,EL,A,Widower,UE,4,209,NO
+1999,F,28,EL,W,NeverMarried,UE,3,76,NO
+2001,F,35,EL,B,Divorced,UE,4,83,NO
+2001,F,30,EL,A,Divorced,UE,1,0,NO
+2000,F,35,EL,W,Widower,UE,3,0,NO
+2000,F,32,EL,A,Divorced,UE,2,172,NO
+2000,F,34,EL,W,NeverMarried,UE,3,187,NO
+2001,M,39,EL,A,NeverMarried,UE,3,35,NO
+2001,M,30,EL,W,NeverMarried,UE,2,0,NO
+2000,F,22,EL,A,Divorced,UE,3,75,NO
+1999,M,33,EL,W,Married ,E,3,0,NO
+1999,F,32,EL,W,NeverMarried,UE,2,0,NO
+2001,F,30,EL,A,Married ,UE,4,220,NO
+2001,M,30,EL,A,Married ,UE,4,24,NO
+2001,F,50,EL,B,Divorced,UE,1,7,NO
+2001,M,29,EL,A,Married ,SE,3,174,NO
+2001,M,28,EL,B,Married ,O,3,89,NO
+2001,F,24,EL,B,Married ,UE,3,0,NO
+2001,M,6,EL,W,NeverMarried,UE,3,59,NO
+2000,F,38,EL,A,Widower,UE,3,16,NO
+2001,M,58,EL,A,Widower,O,3,51,NO
+2000,M,45,EL,W,NeverMarried,E,3,43,NO
+2000,F,40,EL,W,Separated,UE,3,223,NO
+1999,M,28,EL,W,NeverMarried,UE,1,206,NO
+2000,F,49,EL,A,Widower,E,4,39,NO
+2000,M,7,EL,P,NeverMarried,O,3,195,NO
+2000,F,38,EL,W,Divorced,E,3,131,NO
+2000,F,33,EL,W,Widower,UE,3,87,NO
+2000,F,28,EL,W,Married ,O,4,122,YES
+2000,M,50,EL,B,NeverMarried,UE,3,54,NO
+2000,F,32,EL,W,Married ,UE,3,86,NO
+2000,M,27,EL,B,Divorced,UE,3,0,NO
+2000,M,45,EL,A,Married ,UE,4,18,NO
+2001,F,27,EL,B,Married ,UE,4,0,NO
+2000,M,45,EL,W,NeverMarried,UE,3,161,NO
+2000,M,35,EL,W,Married ,SE,3,249,YES
+1999,F,27,EL,B,NeverMarried,UE,4,0,NO
+2000,M,32,EL,A,Divorced,O,3,92,NO
+2000,M,50,EL,A,Married ,O,3,93,NO
+1999,M,23,EL,W,Married ,UE,3,261,YES
+2001,M,2,EL,P,NeverMarried,O,3,0,NO
+2000,F,25,EL,B,NeverMarried,UE,4,44,NO
+2000,M,41,EL,W,Married ,UE,3,0,NO
+2001,F,39,IN,A,Widower,E,3,7,YES
+2000,M,27,EL,W,NeverMarried,SE,3,349,NO
+2000,F,40,EL,A,Married ,UE,3,162,NO
+1999,F,33,EL,A,NeverMarried,UE,2,156,NO
+1999,M,28,EL,A,NeverMarried,UE,3,67,NO
+2000,F,33,EL,B,Married ,UE,4,240,NO
+2001,F,24,EL,B,Divorced,UE,3,19,NO
+2000,F,20,EL,W,NeverMarried,UE,1,173,NO
+2000,M,34,EL,A,Married ,UE,3,51,NO
+2000,M,30,EL,A,Married ,UE,3,0,NO
+2001,M,25,EL,A,Widower,UE,3,35,NO
+2000,M,50,EL,B,Married ,UE,4,45,NO
+2000,M,55,EL,W,NeverMarried,UE,0,98,NO
+2001,M,30,EL,W,NeverMarried,E,2,140,NO
+2001,F,25,EL,W,NeverMarried,UE,3,177,NO
+2000,F,24,EL,A,NeverMarried,UE,3,212,NO
+2000,M,48,EL,A,Divorced,SE,3,141,NO
+2001,M,34,EL,W,NeverMarried,SE,3,40,NO
+2000,M,41,EL,W,Divorced,UE,3,0,NO
+1999,F,34,EL,W,Widower,UE,2,0,NO
+2000,F,30,EL,W,Married ,E,2,89,NO
+2001,F,26,EL,W,Widower,UE,3,61,NO
+2000,M,40,EL,W,NeverMarried,UE,2,174,YES
+2002,F,18,IN,W,NeverMarried,UE,1,0,NO
+2002,M,45,EL,W,Married ,E,4,0,YES
+2002,M,30,EL,A,NeverMarried,UE,1,178,YES
+2002,F,28,EL,W,Married ,O,3,0,YES
+2002,M,35,IN,W,NeverMarried,UE,4,0,YES
+2002,F,34,IN,W,Married ,UE,3,0,YES
+2002,F,43,EL,W,Divorced,UE,3,0,YES
+2002,F,5,IN,P,NeverMarried,O,3,0,YES
+2002,F,30,EL,W,NeverMarried,UE,4,0,YES
+2002,F,39,EL,A,Widower,SE,3,0,YES
+2002,F,26,EL,W,Married ,SE,0,216,YES
+2002,F,43,IN,W,Married ,UE,1,0,NO
+2002,F,35,EL,W,Married ,SE,1,0,NO
+2002,,22,IN,W,Married ,UE,3,0,YES
+2002,F,40,IN,W,Divorced,UE,3,0,YES
+2002,F,27,IN,W,Married ,UE,3,0,YES
+2002,F,28,EL,W,Married ,UE,3,0,YES
+2002,F,35,EL,A,Divorced,UE,4,0,YES
+2002,M,3,IN,W,NeverMarried,O,4,0,YES
+2002,F,25,EL,W,Married ,SE,2,0,NO
+2002,M,33,EL,W,Married ,UE,3,0,YES
+2002,F,1,EL,P,NeverMarried,O,3,0,YES
+2002,M,33,EL,W,NeverMarried,O,1,135,YES
+2002,F,28,IN,W,Married ,SE,4,0,YES
+2002,F,35,EL,W,Married ,UE,2,0,NO
+2002,F,30,EL,W,Married ,E,4,0,YES
+2002,F,58,EL,W,Widower,E,1,315,YES
+2002,M,32,IN,W,Divorced,UE,4,0,YES
+2002,M,40,IN,W,NeverMarried,UE,2,0,NO
+2002,M,39,EL,W,Married ,UE,3,0,NO
+2002,M,33,EL,W,Married ,UE,2,0,YES
+2002,F,35,IN,W,Divorced,UE,2,0,NO
+2002,M,38,EL,W,Married ,UE,3,0,YES
+2002,M,27,EL,W,NeverMarried,UE,4,0,YES
+2002,F,40,EL,W,Widower,UE,3,0,YES
+2002,F,45,EL,A,Divorced,UE,3,58,YES
+2002,M,40,EL,W,Married ,SE,4,156,NO
+2002,F,1,EL,P,NeverMarried,O,3,632,YES
+2002,F,38,IN,W,Divorced,UE,4,0,YES
+2002,F,25,IN,W,Divorced,UE,1,0,NO
+2002,M,30,EL,A,Divorced,SE,2,71,YES
+2002,M,39,IN,W,Married ,SE,3,0,YES
+2002,F,7,IN,P,NeverMarried,O,3,0,YES
+2002,M,30,IN,W,Married ,UE,3,0,YES
+2002,M,33,EL,W,Divorced,E,3,0,YES
+2002,F,28,EL,W,Married ,SE,2,139,YES
+2002,F,75,EL,A,Divorced,E,3,0,YES
+2002,M,25,EL,W,NeverMarried,UE,3,0,NO
+2002,F,23,EL,W,Divorced,SE,3,0,YES
+2002,M,8,IN,W,NeverMarried,SE,3,0,YES
+2002,M,35,IN,W,NeverMarried,O,3,0,YES
+2002,F,32,EL,W,Divorced,O,3,0,NO
+2002,F,20,EL,B,NeverMarried,UE,4,0,YES
+2002,F,28,IN,W,Divorced,O,4,0,YES
+2002,M,45,IN,A,Divorced,E,4,0,YES
+2002,F,32,EL,W,Married ,UE,3,9,NO
+2002,M,50,EL,W,Married ,UE,1,245,YES
+2002,F,20,IN,W,Divorced,UE,4,0,YES
+2002,M,36,EL,W,Married ,UE,2,0,YES
+2002,M,35,EL,W,Married ,UE,4,70,NO
+2002,M,25,EL,W,NeverMarried,UE,4,39,YES
+2002,F,45,EL,B,Widower,UE,3,268,YES
+2002,F,30,EL,W,Married ,E,1,0,NO
+2002,M,35,IN,W,Married ,SE,4,0,YES
+2002,M,40,IN,W,Married ,O,4,0,YES
+2002,F,39,IN,W,Divorced,UE,2,0,NO
+2002,F,26,EL,W,NeverMarried,UE,3,0,YES
+2002,F,38,IN,W,NeverMarried,SE,4,0,YES
+2002,F,25,IN,W,NeverMarried,UE,3,0,YES
+2002,F,27,EL,W,Married ,SE,3,0,YES
+2002,M,43,EL,W,Married ,E,3,86,NO
+2002,F,35,EL,W,NeverMarried,E,3,0,YES
+2002,F,47,OA,W,NeverMarried,UE,2,171,YES
+2002,F,28,EL,W,Married ,SE,3,326,YES
+2002,M,32,IN,A,NeverMarried,E,3,0,YES
+2002,F,10,EL,P,NeverMarried,SE,2,0,NO
+2002,F,24,IN,W,Widower,UE,3,0,YES
+2002,M,38,EL,W,Divorced,UE,3,0,YES
+2002,F,26,IN,W,Married ,O,3,0,YES
+2002,F,32,EL,A,NeverMarried,UE,3,0,YES
+2002,F,51,OA,W,Widower,UE,4,286,YES
+2002,F,30,EL,W,NeverMarried,O,3,13,YES
+2002,M,45,EL,W,Married ,E,2,0,NO
+2002,F,36,EL,W,Married ,SE,2,0,YES
+2002,M,53,EL,W,Divorced,UE,2,0,YES
+2002,M,35,IN,W,Married ,UE,3,0,NO
+2002,F,64,IN,W,Widower,UE,3,0,YES
+2002,F,39,EL,W,Widower,UE,3,292,YES
+2002,F,28,IN,W,Married ,UE,1,0,NO
+2002,M,35,IN,W,NeverMarried,UE,3,0,YES
+2002,F,38,EL,A,Widower,UE,1,0,NO
+2002,M,30,IN,W,Married ,UE,2,0,NO
+2002,F,25,EL,W,NeverMarried,UE,4,0,YES
+2002,M,35,EL,W,Married ,UE,2,259,NO
+2002,M,30,EL,W,NeverMarried,UE,4,0,YES
+2002,F,32,IN,W,Married ,UE,4,0,YES
+2002,F,30,EL,W,Married ,UE,4,0,YES
+2002,F,28,IN,W,Separated,UE,4,0,YES
+2002,F,25,EL,W,NeverMarried,O,2,191,YES
+2002,M,28,EL,A,Married ,UE,4,43,YES
+2002,F,30,EL,W,Married ,UE,1,0,YES
+2002,M,28,EL,B,Married ,O,3,0,YES
+2002,M,26,EL,W,Married ,E,2,0,YES
+2002,M,35,EL,W,Married ,SE,3,121,YES
+2002,F,42,OA,W,Married ,UE,1,290,YES
+2002,F,65,OA,W,NeverMarried,UE,3,0,YES
+2002,F,9,EL,P,NeverMarried,O,3,102,YES
+2002,F,30,EL,W,NeverMarried,UE,3,0,YES
+2002,M,28,IN,W,Married ,O,4,0,YES
+2002,F,36,EL,A,Widower,O,3,0,YES
+2002,M,38,EL,A,NeverMarried,O,4,36,NO
+2002,M,25,IN,W,Married ,UE,1,0,NO
+2002,M,30,IN,W,Married ,O,4,0,YES
+2002,F,40,EL,W,Married ,O,3,0,YES
+2002,F,50,IN,A,NeverMarried,UE,1,0,NO
+2002,M,25,EL,W,Married ,UE,3,0,YES
+2002,M,34,IN,W,Married ,O,3,0,YES
+2002,F,24,EL,W,NeverMarried,SE,2,0,NO
+2002,F,28,EL,W,Married ,E,3,0,YES
+2002,M,47,EL,A,Married ,UE,3,0,YES
+2002,F,24,EL,W,Married ,UE,3,0,YES
+2002,F,38,IN,W,Divorced,ST,4,0,YES
+2002,M,45,EL,A,Married ,UE,3,0,YES
+2002,M,34,EL,A,Widower,O,3,69,YES
+2002,M,45,IN,W,Married ,UE,4,0,YES
+2002,F,30,EL,W,Married ,SE,3,0,YES
+2002,M,37,EL,W,Divorced,UE,3,0,YES
+2002,M,30,EL,W,NeverMarried,UE,3,0,YES
+2002,M,45,OA,W,Married ,UE,4,0,YES
+2002,F,28,EL,W,Married ,UE,3,0,NO
+2002,F,40,EL,A,Divorced,UE,3,0,NO
+2002,F,15,EL,W,NeverMarried,UE,2,0,YES
+2002,F,35,EL,W,Divorced,UE,3,0,YES
+2002,F,26,IN,W,Married ,SE,4,0,YES
+2002,F,35,EL,W,Divorced,O,3,0,YES
+2002,M,30,IN,W,Married ,UE,3,0,YES
+2002,M,60,EL,W,Married ,SE,2,0,YES
+2002,F,30,IN,A,NeverMarried,O,2,0,NO
+2002,M,25,IN,W,NeverMarried,UE,3,0,YES
+2002,F,21,IN,W,NeverMarried,UE,3,0,YES
+2002,F,25,EL,W,Widower,UE,3,0,NO
+2002,F,5,IN,P,NeverMarried,O,3,0,YES
+2002,F,4,EL,P,NeverMarried,UE,1,0,YES
+2002,F,31,EL,W,Widower,UE,3,0,NO
+2002,M,38,IN,W,Married ,UE,3,0,YES
+2002,M,33,EL,A,Married ,UE,1,0,YES
+2002,M,30,EL,A,NeverMarried,O,3,0,YES
+2002,M,41,OA,W,Divorced,UE,3,0,YES
+2002,F,28,IN,W,Married ,UE,3,0,YES
+2002,M,32,EL,W,NeverMarried,UE,2,0,NO
+2002,F,32,EL,A,Divorced,UE,2,0,NO
+2002,F,23,EL,W,Divorced,UE,2,184,YES
+2002,F,45,IN,W,Divorced,UE,3,0,NO
+2002,M,38,OA,W,Married ,SE,4,0,NO
+2002,F,8,EL,A,NeverMarried,O,3,161,YES
+2002,M,44,EL,W,Married ,UE,3,0,YES
+2002,M,28,IN,W,Divorced,SE,2,0,NO
+2002,F,39,EL,W,Divorced,UE,3,0,YES
+2002,M,2,IN,P,NeverMarried,O,4,0,YES
+2002,M,25,IN,W,NeverMarried,UE,1,0,NO
+2002,M,30,IN,W,Divorced,UE,1,0,NO
+2002,F,20,IN,W,Married ,O,3,0,YES
+2002,F,40,EL,B,Widower,UE,2,0,YES
+2002,M,26,IN,A,Married ,UE,4,0,YES
+2002,M,27,EL,W,NeverMarried,UE,2,0,YES
+2002,F,28,IN,W,Divorced,UE,3,0,YES
+2002,M,35,IN,W,NeverMarried,UE,1,0,NO
+2002,F,30,EL,W,Married ,O,3,0,YES
+2002,F,30,EL,W,NeverMarried,UE,2,0,YES
+2002,F,2,IN,P,NeverMarried,O,3,0,YES
+2002,F,25,EL,W,Married ,UE,3,0,YES
+2002,M,25,IN,W,NeverMarried,E,4,0,YES
+2002,F,21,IN,W,Widower,UE,1,0,NO
+2002,M,29,IN,A,NeverMarried,O,3,0,YES
+2002,M,42,IN,A,Married ,SE,4,0,YES
+2002,M,45,EL,W,Married ,UE,3,0,YES
+2002,F,28,EL,A,Married ,UE,2,0,NO
+2002,F,26,EL,W,Widower,E,3,0,NO
+2002,F,37,IN,W,Widower,UE,4,0,YES
+2002,M,37,IN,W,NeverMarried,O,3,0,YES
+2002,M,2,IN,P,NeverMarried,O,1,0,NO
+2002,F,32,EL,B,NeverMarried,UE,4,0,NO
+2002,M,28,IN,W,Married ,UE,3,0,YES
+2002,F,18,EL,W,Widower,SE,1,76,NO
+2002,F,23,EL,W,Married ,UE,4,0,YES
+2002,F,32,IN,A,Married ,UE,4,0,YES
+2002,F,20,IN,W,Married ,UE,4,0,YES
+2002,M,34,IN,W,Married ,O,4,0,YES
+2002,M,3,IN,D,NeverMarried,O,3,0,YES
+2002,F,34,IN,W,Widower,UE,1,0,NO
+2002,F,23,EL,W,NeverMarried,O,2,0,YES
+2002,M,33,IN,W,Married ,SE,3,0,YES
+2002,F,27,IN,W,Married ,UE,2,0,NO
+2002,M,62,EL,A,Divorced,UE,4,0,YES
+2002,M,22,IN,W,NeverMarried,UE,1,0,NO
+2002,F,45,EL,W,NeverMarried,UE,3,0,YES
+2002,F,31,OA,W,Divorced,UE,3,274,YES
+2002,M,20,EL,W,NeverMarried,O,3,0,YES
+2002,F,25,EL,W,Married ,UE,3,0,YES
+2002,F,38,OA,B,Married ,UE,4,0,YES
+2002,M,38,OA,W,Married ,UE,1,0,YES
+2002,M,38,IN,W,Widower,UE,4,0,YES
+2002,F,45,IN,W,NeverMarried,UE,4,0,YES
+2002,M,20,EL,W,NeverMarried,UE,2,0,YES
+2002,M,29,IN,W,NeverMarried,UE,4,0,YES
+2000,F,24,EL,W,Married ,UE,4,0,NO
+2000,M,40,OA,B,Divorced,E,4,0,NO
+2000,M,31,IN,W,Married ,UE,3,0,YES
+2000,F,35,IN,W,Divorced,SE,3,0,YES
+2000,M,38,OA,A,NeverMarried,UE,2,186,YES
+2000,F,28,OA,W,Married ,UE,4,551,YES
+2000,F,22,EL,W,Married ,SE,4,0,NO
+2000,F,20,IN,W,NeverMarried,O,3,0,YES
+2000,M,28,EL,W,NeverMarried,O,1,83,YES
+2000,F,54,EL,W,Widower,O,1,228,NO
+2000,F,22,IN,W,Married ,UE,4,0,YES
+2000,M,22,EL,W,NeverMarried,O,2,58,YES
+2002,F,20,IN,W,NeverMarried,UE,3,0,YES
+2002,M,40,EL,W,Separated,UE,3,103,YES
+2002,M,28,IN,W,Divorced,ST,4,0,YES
+2002,M,23,EL,A,NeverMarried,UE,2,0,NO
+2002,M,31,EL,W,Married ,UE,3,0,YES
+2002,F,30,IN,W,Married ,SE,3,0,YES
+2002,M,57,IN,W,Married ,UE,3,0,YES
+2002,M,32,EL,W,Married ,E,3,0,YES
+2002,F,33,EL,B,Widower,UE,3,0,YES
+2002,M,27,EL,W,Married ,SE,3,0,YES
+2002,M,20,EL,W,Married ,UE,3,0,YES
+2002,F,37,IN,W,Divorced,UE,2,0,NO
+2002,F,22,EL,A,NeverMarried,UE,3,176,NO
+2002,F,20,EL,B,NeverMarried,UE,3,269,YES
+2002,M,55,IN,A,Widower,UE,4,0,YES
+2002,F,23,IN,W,NeverMarried,O,3,0,YES
+2002,F,24,IN,W,Divorced,UE,3,0,YES
+2002,M,30,IN,W,Divorced,UE,3,0,YES
+2002,F,25,EL,W,Divorced,UE,1,264,YES
+2002,M,50,IN,W,Divorced,UE,2,0,NO
+2002,F,35,OA,W,Widower,UE,3,0,YES
+2002,F,28,EL,B,NeverMarried,UE,3,0,YES
+2002,M,40,EL,A,NeverMarried,UE,3,0,YES
+2002,M,23,EL,W,Married ,UE,3,48,YES
+2002,M,27,EL,W,Divorced,UE,2,57,YES
+2002,F,38,EL,A,Widower,UE,4,0,YES
+2002,M,38,EL,W,Married ,UE,2,0,NO
+2002,F,19,EL,W,NeverMarried,UE,2,253,YES
+2002,F,23,IN,W,Married ,O,3,0,YES
+2002,M,40,EL,A,Separated,UE,3,0,YES
+2002,M,24,IN,A,Married ,UE,3,0,YES
+2002,M,30,IN,W,Divorced,E,3,0,YES
+2002,F,6,EL,P,NeverMarried,E,1,152,YES
+2002,F,7,IN,P,NeverMarried,O,3,0,YES
+2000,M,25,EL,W,Married,UE,3,0,YES
+2000,M,35,EL,W,Separated,UE,3,0,YES
+2000,M,25,EL,B,Married,UE,3,6,NO
+2000,F,29,IN,W,Widower,UE,3,0,YES
+2000,M,50,OA,W,Married,UE,3,33,YES
+2000,F,26,IN,W,Separated,UE,3,0,YES
+2000,F,27,OA,W,NeverMarried,UE,3,0,YES
+2000,F,28,IN,W,NeverMarried,UE,3,0,YES
+2000,M,46,OA,W,NeverMarried,UE,3,0,YES
+2000,M,32,EL,W,NeverMarried,UE,3,58,NO
+2000,F,52,OA,W,Widower,UE,3,0,YES
+2000,M,42,OA,W,Married,UE,3,0,YES
+2000,M,32,EL,B,Married,UE,3,0,NO
+2000,F,24,IN,W,Married,UE,3,0,YES
+2000,M,47,OA,W,Married,UE,3,0,YES
+2000,M,32,EL,W,Married,UE,3,80,YES
+2000,M,32,EL,A,NeverMarried,UE,3,0,NO
+2000,F,27,IN,W,Divorced,UE,3,0,YES
+2000,M,30,EL,B,Married,UE,3,0,NO
+2000,M,15,EL,W,NeverMarried,UE,3,0,YES
+2000,M,45,OA,W,Married,UE,3,0,YES
+2000,M,40,EL,W,NeverMarried,UE,3,178,NO
+2000,M,40,EL,W,Married,UE,3,0,NO
+2000,F,34,IN,W,Married,UE,3,0,YES
+2000,F,27,IN,A,Widower,UE,3,0,YES
+2000,M,50,EL,A,Widower,UE,3,0,NO
+2000,F,30,EL,W,Widower,UE,3,0,YES
+2000,F,34,EL,W,Married,UE,3,0,YES
+2000,M,35,EL,W,Separated,UE,3,258,YES
+2000,M,41,EL,W,Married,UE,3,0,NO
+2000,M,30,EL,W,NeverMarried,UE,3,0,YES
+2000,M,49,IN,B,Married,UE,3,0,YES
+2000,M,33,EL,W,Divorced,UE,3,0,YES
+2000,F,28,EL,B,Married,UE,3,0,NO
+2000,F,37,IN,W,Married,UE,3,0,NO
+2000,F,7,EL,P,NeverMarried,UE,3,0,NO
+2000,F,55,IN,B,Widower,UE,3,0,YES
+2000,F,22,EL,W,Married,UE,3,175,YES
+2000,F,50,OA,W,Widower,UE,3,0,YES
+2000,F,26,EL,W,Separated,UE,3,0,NO
+2000,F,37,OA,W,Widower,UE,3,0,YES
+2000,M,30,IN,W,Married,UE,3,0,YES
+2000,M,42,OA,W,Married,UE,3,340,YES
+2000,F,26,IN,A,Married,UE,3,0,YES
+2000,F,38,IN,W,Separated,UE,3,0,YES
+2000,M,32,EL,W,Separated,UE,3,0,NO
+2000,F,25,IN,W,Widower,UE,3,0,NO
+2000,M,6,IN,P,NeverMarried,UE,3,0,YES
+2000,M,34,EL,W,Separated,UE,3,0,YES
+2000,F,40,EL,W,NeverMarried,UE,3,0,YES
+2000,F,5,IN,P,Married,UE,3,0,YES
+2000,F,26,EL,A,Married,UE,3,0,YES
+2000,M,43,OA,W,Separated,UE,3,151,YES
+2000,F,23,EL,W,Separated,UE,3,0,YES
+2000,F,27,IN,A,Married,UE,3,0,YES
+2000,M,48,OA,W,Widower,UE,3,304,YES
+2000,M,60,EL,B,Married,UE,3,0,NO
+2000,M,33,EL,W,Married,UE,3,0,YES
+2000,F,25,EL,A,NeverMarried,UE,3,0,YES
+2000,M,52,EL,W,Married,UE,3,18,YES
+2000,F,20,IN,W,NeverMarried,UE,3,0,YES
+2001,F,35,IN,W,Separated,UE,3,0,YES
+2001,M,28,IN,W,Married,UE,3,0,YES
+2001,F,37,EL,W,Separated,UE,3,0,YES
+2002,M,25,EL,W,NeverMarried,UE,3,57,YES
+2001,F,47,EL,A,Divorced,UE,3,0,NO
+2001,M,3,EL,P,NeverMarried,UE,3,354,NO
+2001,F,27,EL,W,Separated,UE,3,0,YES
+2001,M,40,OA,W,Separated,UE,3,144,YES
+2001,F,24,EL,W,Married,UE,3,0,YES
+2001,F,65,OA,A,Separated,UE,3,241,YES
+2001,M,27,EL,W,Married,UE,3,165,YES
+2001,M,31,IN,W,Married,UE,3,0,YES
+2001,F,27,IN,B,NeverMarried,UE,3,0,YES
+2001,F,36,EL,W,Widower,UE,3,0,NO
+2001,F,44,OA,W,Widower,UE,3,0,YES
+2001,F,32,EL,W,Married,UE,3,0,YES
+2001,F,27,EL,W,Separated,UE,3,271,YES
+2001,F,31,IN,A,Widower,UE,3,0,YES
+2002,M,20,IN,W,NeverMarried,UE,3,0,YES
+2002,M,27,IN,W,NeverMarried,UE,3,0,YES
+2001,M,61,OA,W,Married,UE,3,0,YES
+2002,M,41,EL,W,NeverMarried,UE,3,0,YES
+2001,F,22,IN,W,Married,UE,3,0,YES
+2001,M,33,EL,W,Separated,UE,3,0,YES
+2002,F,31,EL,W,Divorced,UE,3,0,YES
+2001,F,28,EL,W,Married,UE,3,0,NO
+2002,F,41,IN,W,Separated,UE,3,0,YES
+2001,M,32,IN,W,Widower,UE,3,0,YES
+2002,F,31,EL,W,Separated,UE,3,0,YES
+2001,M,29,EL,A,Separated,UE,3,0,YES
+2001,F,26,IN,W,Married,UE,3,0,YES
+2001,F,42,IN,A,Married,UE,3,0,YES
+2001,M,37,EL,W,Married,UE,3,0,YES
+2001,F,25,IN,W,Married,UE,3,0,YES
+2001,F,37,EL,W,Married,UE,3,0,YES
+2003,F,27,IN,W,Married,UE,3,0,YES
+2001,M,5,EL,A,Married,UE,3,0,YES
+2001,F,30,EL,W,NeverMarried,UE,3,0,NO
+2001,F,35,EL,W,Widower,UE,3,0,YES
+2001,M,42,OA,W,Widower,UE,3,0,YES
+2001,M,10,EL,W,NeverMarried,UE,3,132,NO
+2001,F,55,IN,W,Widower,UE,3,0,YES
+2001,F,24,IN,W,Married,UE,3,0,YES
+2001,F,56,OA,A,Widower,UE,3,0,YES
+2001,M,12,IN,W,NeverMarried,UE,3,0,YES
+2001,M,60,IN,W,Married,UE,3,0,YES
+2001,F,37,OA,W,Married,UE,3,0,YES
+2001,F,35,EL,B,Married,UE,3,0,NO
+2002,F,8,EL,A,NeverMarried,UE,3,0,YES
+2001,M,37,EL,W,NeverMarried,UE,3,0,YES
+2001,F,45,EL,B,Separated,UE,3,0,NO
+2001,F,27,IN,B,Married,UE,3,0,YES
+2001,M,32,EL,A,Married,UE,3,0,NO
+2001,M,0,EL,P,NeverMarried,UE,3,0,YES
+2002,F,34,EL,W,Married,UE,3,0,YES
+2001,F,50,EL,W,Separated,UE,3,0,YES
+2002,F,38,EL,W,Separated,UE,3,0,NO
+2001,M,63,OA,W,Married,UE,3,0,YES
+2001,M,25,EL,B,Married,UE,3,0,NO
+2001,M,36,EL,W,Married,UE,3,0,NO
+2002,M,34,IN,W,Married,UE,3,0,YES
+2001,M,45,IN,A,Married,UE,3,0,NO
+2001,F,5,EL,A,NeverMarried,UE,3,0,YES
+2001,F,38,EL,W,Widower,UE,3,0,YES
+2001,M,41,IN,B,Married,UE,3,0,YES
+2001,M,38,IN,W,Separated,UE,3,0,YES
+2001,M,58,OA,W,Married,UE,3,0,YES
+2001,M,27,IN,W,NeverMarried,UE,3,0,YES
+2001,M,38,EL,A,Married,UE,3,0,NO
+2001,M,20,EL,W,Divorced,UE,3,0,YES
+2002,M,6,EL,P,NeverMarried,UE,3,0,YES
+2001,F,25,EL,W,Separated,UE,3,0,YES
+2002,F,40,EL,A,Married,UE,3,0,YES
+2001,M,41,IN,W,Married,UE,3,0,YES
+2001,F,37,EL,A,Divorced,UE,3,44,NO
+2001,M,30,EL,W,Married,UE,3,0,YES
+2001,F,60,EL,W,Separated,UE,3,0,YES
+2002,M,30,EL,W,NeverMarried,UE,3,0,NO
+2002,F,30,IN,W,Married,UE,3,0,YES
+2002,F,27,IN,W,Divorced,UE,3,0,YES
+2001,M,25,IN,W,NeverMarried,UE,3,0,YES
+2002,M,54,EL,W,Separated,UE,3,0,YES
+2001,M,38,EL,A,Widower,UE,3,0,NO
+2001,F,20,EL,W,Married,UE,3,0,YES
+2002,M,30,EL,W,Married,UE,3,0,YES
+2001,F,28,IN,W,Widower,UE,3,0,YES
+2001,M,25,EL,W,Separated,UE,3,0,YES
+2001,F,40,OA,W,Married,UE,3,0,YES
+2001,M,40,EL,W,Married,UE,3,0,YES
+2001,F,37,EL,W,Widower,UE,3,0,NO
+2001,F,32,IN,W,Married,UE,3,0,YES
+2001,F,30,IN,W,Married,UE,3,0,YES
+2002,F,32,IN,W,Widower,UE,3,0,YES
+2001,F,26,EL,B,Married,UE,3,0,NO
+2001,F,35,EL,W,Separated,UE,3,0,YES
+2001,F,43,IN,W,Widower,UE,3,0,YES
+2001,F,19,IN,W,Married,UE,3,0,YES
+2001,F,35,EL,W,NeverMarried,UE,3,0,YES
+2001,F,40,EL,A,Widower,UE,3,0,NO
+2001,M,50,IN,W,NeverMarried,UE,3,0,YES
+2002,M,40,OA,W,Married,UE,3,0,YES
+2001,F,38,EL,W,Separated,UE,3,0,NO
+2001,F,3,IN,P,NeverMarried,UE,3,0,YES
+2001,F,42,OA,W,Widower,UE,3,0,YES
+2001,F,30,EL,W,Married,UE,3,0,YES
+2001,F,25,EL,W,Married,UE,3,0,YES
+2001,M,35,EL,A,Married,UE,3,0,NO
+2000,M,46,OA,W,Married,UE,3,0,YES
+2001,M,43,EL,W,Married,UE,3,0,NO
+2002,F,34,EL,W,NeverMarried,UE,3,0,YES
+2002,F,31,EL,W,Married,UE,3,0,YES
+2002,F,21,IN,W,Separated,UE,3,0,YES
+2001,M,56,EL,W,Married,UE,3,0,NO
+2002,M,28,IN,A,NeverMarried,UE,3,0,YES
+2001,M,55,OA,W,Separated,UE,3,0,YES
+2001,F,35,IN,W,Separated,UE,3,0,YES
+2001,M,30,EL,W,NeverMarried,UE,3,0,YES
+2002,M,42,IN,W,Separated,UE,3,0,YES
+2001,F,22,IN,W,Widower,UE,3,0,YES
+2001,F,10,EL,P,NeverMarried,UE,3,0,YES
+2001,M,30,IN,W,Married,UE,3,0,YES
+2002,F,28,IN,W,Separated,UE,3,0,YES
+2001,F,28,EL,W,Widower,UE,3,0,NO
+2001,F,6,EL,P,NeverMarried,UE,3,0,YES
+2001,F,45,OA,W,NeverMarried,UE,3,0,YES
+2001,F,38,OA,W,Separated,UE,3,0,YES
+2001,F,27,EL,A,Separated,UE,3,0,NO
+2001,F,47,IN,B,Widower,UE,3,0,YES
+2001,M,30,IN,W,Married,UE,3,0,YES
+2001,F,22,EL,A,Married,UE,3,72,YES
+2001,M,2,EL,P,NeverMarried,UE,3,0,YES
+2001,F,7,IN,P,NeverMarried,UE,3,0,YES
+2001,M,44,EL,W,Married,UE,3,0,YES
+2001,M,8,IN,W,NeverMarried,UE,3,0,YES
+2002,F,24,IN,W,Married,UE,3,0,YES
+2001,M,30,EL,W,Married,UE,3,0,YES
+2001,F,28,EL,W,Separated,UE,3,0,YES
+2002,F,38,EL,W,Married,UE,3,0,YES
+2001,F,25,EL,W,Separated,UE,4,0,YES
+2002,F,18,IN,A,NeverMarried,UE,3,0,YES
+2001,M,50,OA,W,Married,UE,3,0,YES
+2001,M,34,EL,W,NeverMarried,UE,3,0,NO
+2002,M,8,IN,W,NeverMarried,UE,3,0,YES
+2001,F,20,IN,W,Married,UE,3,0,YES
+2002,F,36,EL,W,Married,UE,3,0,YES
+2002,M,40,IN,W,Married,UE,3,0,YES
+2002,F,21,IN,W,NeverMarried,UE,3,0,YES
+2001,F,29,EL,W,Separated,UE,3,0,YES
+2002,F,27,IN,B,NeverMarried,UE,3,0,YES
+2001,M,35,EL,W,Married,UE,3,0,YES
+2001,M,50,OA,W,Married,UE,3,0,YES
+2001,M,52,IN,W,NeverMarried,UE,3,0,YES
+2002,F,34,EL,W,Widower,UE,3,0,YES
+2001,M,38,EL,A,NeverMarried,UE,3,0,NO
+2002,F,23,IN,W,Married,UE,3,0,YES
+2002,F,70,OA,B,Widower,UE,3,0,NO
+2002,F,26,EL,W,Widower,UE,3,0,NO
+2001,F,28,IN,W,Widower,UE,3,0,YES
+2001,F,30,EL,A,Married,UE,3,0,YES
+2001,F,28,EL,W,Widower,UE,3,0,YES
+2001,F,42,OA,A,Married,UE,3,194,YES
+2002,M,35,EL,A,NeverMarried,UE,3,0,NO
+2001,F,25,IN,A,Married,UE,3,0,YES
+2002,F,42,OA,A,Married,UE,3,0,YES
+2002,F,57,EL,W,Divorced,UE,3,0,YES
+2001,M,25,EL,W,NeverMarried,UE,3,0,NO
+2001,F,25,EL,W,NeverMarried,UE,3,0,YES
+2001,F,32,EL,W,Widower,UE,3,0,YES
+2001,F,40,IN,A,Separated,UE,3,0,YES
+2001,M,20,IN,W,NeverMarried,UE,3,0,YES
+2002,M,5,IN,P,NeverMarried,UE,3,0,YES
+2001,M,10,IN,W,NeverMarried,UE,3,0,YES
+2002,F,29,IN,W,Widower,UE,3,0,NO
+2003,F,32,IN,W,Married,UE,3,0,NO
+2003,M,39,EL,A,Married,UE,3,0,NO
+2003,F,27,EL,W,Married,UE,3,0,NO
+2003,F,25,EL,W,Married,UE,3,0,YES
+2001,M,46,EL,A,Married,UE,3,0,NO
+2001,F,44,OA,W,Separated,UE,3,0,YES
+2001,M,40,OA,B,Divorced,UE,3,0,NO
+2001,M,33,IN,W,Married,UE,3,0,YES
+2002,F,20,EL,W,Widower,UE,3,0,YES
+2001,M,60,OA,W,NeverMarried,UE,3,0,YES
+2002,M,45,EL,W,Married,UE,3,0,NO
+2002,F,47,OA,W,Widower,UE,3,0,YES
+2002,F,35,IN,W,Separated,UE,3,0,YES
+2001,M,29,OA,W,NeverMarried,UE,3,0,YES
+2001,F,30,IN,W,Separated,UE,3,0,YES
+2001,F,29,OA,W,NeverMarried,UE,3,0,YES
+2001,M,34,OA,W,Divorced,UE,3,0,YES
+2002,F,27,OA,W,NeverMarried,UE,3,0,YES
+2002,F,48,OA,A,Widower,UE,3,0,YES
+2002,F,11,EL,W,NeverMarried,UE,1,0,NO
+2002,M,26,IN,W,Married ,UE,1,0,NO
+2002,F,15,IN,W,NeverMarried,UE,3,0,YES
+2002,M,40,OA,W,Married ,UE,3,162,YES
+2002,F,10,EL,P,NeverMarried,UE,4,262,YES
+2002,F,1,EL,P,NeverMarried,O,3,570,YES
+2002,M,35,OA,W,Separated,SE,3,0,YES
+2002,F,4,EL,P,NeverMarried,UE,2,0,YES
+2002,M,37,IN,W,Married ,UE,3,0,YES
+2002,F,40,OA,W,Widower,UE,3,0,YES
+2002,F,32,IN,W,Married ,UE,3,0,YES
+2002,F,28,OA,W,Divorced,UE,1,0,YES
+2002,F,30,IN,W,NeverMarried,UE,3,0,YES
+2002,F,38,IN,A,Married ,UE,3,0,YES
+2002,M,30,EL,A,Married ,O,3,0,YES
+2002,M,28,IN,A,Married ,O,2,0,NO
+2002,M,39,EL,B,Widower,UE,2,0,YES
+2002,F,9,IN,P,NeverMarried,SE,2,0,YES
+2002,M,29,IN,A,Married ,UE,2,0,YES
+2002,F,38,IN,W,Widower,SE,1,0,YES
+2002,M,33,IN,W,NeverMarried,UE,3,0,YES
+2002,F,28,IN,W,Married ,SE,3,0,YES
+2002,F,27,IN,W,Divorced,UE,4,0,YES
+2002,F,8,EL,A,NeverMarried,UE,1,121,YES
+2002,M,40,IN,W,Married ,SE,4,0,YES
+2002,F,27,EL,A,Married ,UE,4,0,YES
+2002,M,57,OA,W,Married ,UE,3,0,YES
+2002,F,26,OA,W,NeverMarried,SE,3,335,YES
+2002,M,37,IN,W,NeverMarried,UE,4,0,YES
+2002,F,32,IN,W,Married ,UE,4,0,YES
+2002,F,20,EL,W,NeverMarried,UE,4,0,YES
+2002,F,39,OA,W,Married ,UE,3,0,YES
+2002,F,11,OA,P,NeverMarried,O,2,0,NO
+2002,F,27,IN,W,Separated,O,4,0,YES
+2002,M,30,OA,W,Married ,UE,3,0,NO
+2002,F,28,OA,W,Widower,UE,4,0,YES
+2002,F,27,IN,W,Married ,UE,4,0,YES
+2002,M,30,IN,W,NeverMarried,UE,3,0,YES
+2002,F,23,OA,W,Married ,UE,3,0,NO
+2002,M,32,IN,A,NeverMarried,SE,3,0,YES
+2002,M,1,IN,P,NeverMarried,O,3,0,YES
+2002,F,44,OA,W,Widower,UE,3,0,YES
+2002,M,33,IN,A,Divorced,UE,3,0,YES
+2002,F,20,IN,W,Widower,UE,3,17,YES
+2002,M,30,OA,A,Married ,UE,4,48,YES
+2002,M,35,IN,A,Married ,UE,3,0,YES
+2002,F,23,IN,W,Married ,UE,3,0,YES
+2002,F,40,OA,W,Divorced,UE,3,0,YES
+2002,F,30,IN,W,NeverMarried,UE,3,0,YES
+2002,M,32,IN,W,Married ,UE,3,0,YES
+2002,F,4,IN,P,NeverMarried,O,2,0,NO
+2002,M,28,IN,W,Married ,E,3,0,YES
+2002,F,2,EL,D,NeverMarried,O,3,0,YES
+2002,F,9,EL,P,NeverMarried,UE,3,0,YES
+2002,F,1,EL,D,NeverMarried,O,0,262,YES
+2002,M,2,EL,P,NeverMarried,O,3,0,NO
+2002,F,10,EL,P,NeverMarried,SE,1,1418,YES
+2002,M,33,EL,W,Married ,UE,3,0,YES
+2002,F,24,EL,W,Divorced,UE,3,0,YES
+2002,F,24,EL,W,Divorced,UE,3,0,YES
+2002,M,35,EL,W,Widower,UE,3,0,YES
+2002,M,48,EL,A,Married ,UE,3,0,YES
+2002,M,43,EL,B,Married ,SE,4,38,YES
+2002,M,41,OA,W,NeverMarried,UE,3,59,YES
+2002,F,26,EL,W,Married ,UE,2,0,NO
+2002,M,31,EL,W,Married ,SE,3,0,YES
+2002,M,25,EL,W,Married ,SE,3,0,YES
+2002,F,26,EL,W,Married ,UE,3,0,YES
+2002,F,32,EL,W,Married ,UE,3,0,YES
+2002,F,35,EL,W,Married ,UE,2,171,YES
+2002,F,28,EL,A,NeverMarried,UE,3,8,YES
+2002,F,35,OA,W,Divorced,UE,3,0,YES
+2002,F,30,EL,W,Divorced,UE,3,0,YES
+2002,M,48,EL,A,Married ,UE,3,0,NO
+2002,F,40,OA,W,Divorced,SE,3,8,YES
+2002,M,30,EL,W,Divorced,O,4,0,NO
+2002,F,26,IN,W,Widower,ST,3,0,YES
+2002,F,30,EL,W,Widower,UE,3,295,YES
+2002,M,9,IN,A,NeverMarried,UE,3,0,YES
+2002,F,50,IN,W,Divorced,UE,3,0,YES
+2002,M,30,EL,W,Divorced,UE,3,0,NO
+2002,F,29,IN,W,Married ,O,3,0,YES
+2002,F,33,IN,W,Divorced,UE,1,0,NO
+2002,M,68,EL,W,Divorced,UE,3,0,NO
+2002,F,20,EL,W,Married ,UE,3,0,YES
+2002,M,35,IN,W,Married ,UE,4,0,YES
+2002,F,30,EL,W,Married ,UE,3,0,YES
+2002,M,54,OA,A,Married ,UE,3,0,YES
+2002,M,22,IN,W,NeverMarried,UE,3,0,YES
+2002,F,36,OA,W,Married ,E,3,0,YES
+2002,F,38,IN,W,Married ,UE,4,0,YES
+2002,F,38,IN,W,Married ,UE,1,0,NO
+2002,F,30,EL,W,Divorced,UE,3,0,YES
+2002,F,50,EL,W,Widower,UE,2,226,NO
+2002,M,30,EL,W,Married ,UE,3,0,NO
+2002,F,35,EL,W,Divorced,UE,3,21,YES
+2002,F,40,IN,W,Divorced,UE,4,0,YES
+2002,M,28,EL,W,Married ,UE,3,0,YES
+2002,M,30,EL,W,Married ,UE,2,302,YES
+2002,M,27,EL,W,Divorced,UE,2,0,NO
+2002,M,41,IN,W,Married ,UE,4,0,YES
+2002,M,6,OA,P,NeverMarried,UE,3,0,NO
+2003,F,27,EL,A,Divorced,UE,3,0,YES
+2003,F,25,EL,W,Divorced,UE,2,0,YES
+2003,M,7,IN,A,NeverMarried,O,4,0,YES
+2003,M,25,EL,W,Married ,UE,2,211,YES
+2003,F,21,IN,W,Divorced,UE,4,0,YES
+2003,F,27,EL,W,Divorced,UE,3,0,YES
+2003,F,35,EL,W,Divorced,UE,3,0,NO
+2003,F,45,IN,W,Divorced,UE,4,0,YES
+2003,F,32,EL,A,Married ,UE,3,152,YES
+2003,M,30,EL,A,Married ,SE,3,285,YES
+2003,M,17,EL,A,NeverMarried,UE,3,0,YES
+2003,F,35,EL,W,Divorced,UE,3,0,NO
+2003,M,4,IN,P,NeverMarried,SE,3,0,YES
+2003,M,10,IN,P,NeverMarried,E,4,0,YES
+2003,F,5,IN,A,NeverMarried,O,4,0,YES
+2003,M,30,EL,A,Married ,UE,3,0,YES
+2003,F,26,IN,W,Married ,O,4,0,YES
+2003,M,48,IN,W,Widower,UE,4,0,YES
+2003,M,21,IN,W,Married ,UE,1,0,NO
+2003,F,26,EL,W,Divorced,UE,3,0,YES
+2003,F,30,IN,W,Married ,UE,3,0,YES
+2003,F,40,EL,W,Divorced,UE,3,0,NO
+2003,M,43,OA,W,Married ,UE,1,0,YES
+2003,M,32,EL,B,Married ,UE,3,0,NO
+2003,F,36,IN,W,Widower,UE,3,0,YES
+2003,F,19,IN,W,Married ,UE,3,0,YES
+2002,M,30,EL,W,Married ,O,3,0,NO
+2002,F,27,IN,W,Widower,O,2,0,NO
+2002,F,30,IN,W,Divorced,SE,3,0,YES
+2002,M,55,EL,W,Married ,O,1,0,NO
+2002,M,29,EL,A,Separated,UE,4,0,YES
+2002,F,50,OA,W,Widower,UE,3,0,NO
+2002,F,25,IN,W,Married ,UE,2,0,NO
+2002,F,30,EL,A,NeverMarried,O,4,0,YES
+2002,M,32,EL,A,Married ,SE,3,0,YES
+2002,M,22,IN,W,Married ,UE,3,0,YES
+2002,F,30,EL,W,Married ,O,3,0,YES
+2002,M,35,IN,W,Married ,SE,3,0,YES
+2001,M,66,IN,W,Married ,O,3,0,YES
+2001,F,27,IN,A,Married ,UE,3,0,YES
+2001,F,36,IN,A,Married ,UE,3,0,YES
+2001,M,34,IN,W,NeverMarried,UE,4,0,YES
+2001,M,38,IN,W,Married ,UE,4,0,YES
+2002,M,32,EL,W,Widower,UE,3,0,YES
+2002,F,27,IN,W,Married ,UE,2,0,NO
+2002,F,40,IN,W,Widower,UE,4,0,YES
+2002,F,25,IN,W,Married ,UE,3,0,YES
+2002,M,30,EL,A,Married ,UE,2,0,NO
+2002,M,32,IN,W,Widower,UE,4,0,YES
+2002,F,30,EL,W,Married ,UE,3,0,YES
+2002,M,30,EL,W,NeverMarried,E,3,0,YES
+2002,M,28,IN,W,NeverMarried,UE,3,0,YES
+2002,F,5,IN,P,NeverMarried,O,2,0,NO
+2002,F,9,IN,P,NeverMarried,UE,4,0,YES
+2002,F,6,EL,P,NeverMarried,UE,1,0,YES
+2002,F,9,IN,P,NeverMarried,UE,3,0,YES
+2002,F,30,EL,W,Married ,E,3,290,YES
+2002,F,28,EL,A,NeverMarried,UE,3,0,YES
+2002,F,40,IN,W,Married ,UE,4,0,YES
+2000,F,27,EL,W,NeverMarried,UE,4,0,YES
+2002,F,33,IN,W,Married ,UE,4,0,YES
+2002,F,32,IN,W,Married ,SE,4,0,YES
+2002,F,20,IN,W,NeverMarried,SE,3,0,YES
+2002,F,51,IN,W,Widower,UE,3,0,YES
+2002,F,42,IN,W,Widower,UE,3,0,YES
+2002,F,26,EL,W,Widower,UE,2,204,YES
+2002,F,35,EL,W,NeverMarried,UE,2,248,NO
+2002,M,50,EL,W,Married ,UE,4,0,YES
+2002,M,36,IN,W,Married ,UE,2,0,NO
+2002,M,31,IN,W,Married ,UE,2,0,YES
+2002,M,34,EL,A,Separated,UE,3,0,NO
+2002,F,30,EL,W,NeverMarried,UE,3,0,YES
+2002,M,35,EL,W,Married ,UE,3,0,YES
+2002,F,32,EL,W,Divorced,UE,3,0,NO
+2002,F,20,EL,W,NeverMarried,SE,2,0,YES
+2002,F,24,EL,W,Widower,SE,4,0,YES
+2002,F,10,EL,P,NeverMarried,UE,2,485,YES
+2002,F,25,EL,W,Married ,UE,2,0,YES
+2002,M,27,IN,W,Married ,UE,1,0,NO
+2002,F,30,IN,W,Widower,UE,4,0,YES
+2002,F,27,IN,W,Married ,UE,4,0,YES
+2002,F,28,EL,W,Married ,O,3,0,YES
+2002,F,48,IN,W,Widower,UE,4,0,YES
+2002,M,28,EL,A,Separated,UE,2,54,YES
+2002,M,38,EL,W,Married ,UE,2,300,YES
+2002,M,35,EL,A,Married ,UE,3,0,YES
+2002,M,42,OA,W,Married ,SE,2,54,YES
+2002,M,38,IN,W,Married ,UE,4,0,YES
+2002,F,30,EL,W,Divorced,UE,3,0,YES
+2002,F,35,EL,W,Separated,O,3,0,YES
+2002,F,27,EL,W,Married ,E,3,345,YES
+2002,M,32,EL,W,Divorced,ST,1,0,NO
+2002,F,18,IN,W,Married ,O,3,0,YES
+2002,F,20,EL,W,Married ,UE,3,0,YES
+2002,F,7,IN,R,NeverMarried,O,3,0,YES
+2002,F,28,IN,A,Divorced,O,2,0,NO
+2002,F,28,EL,W,Married ,O,4,0,YES
+2002,M,46,OA,W,Married ,E,3,0,YES
+2002,F,35,EL,W,Divorced,O,3,0,YES
+2002,F,30,IN,W,Widower,UE,1,0,NO
+2002,F,30,EL,W,Widower,SE,2,266,YES
+2002,M,24,IN,W,NeverMarried,SE,4,0,YES
+2002,M,28,EL,W,Divorced,UE,3,0,NO
+2002,F,38,IN,W,Widower,O,4,0,YES
+2002,M,30,EL,A,NeverMarried,O,3,0,NO
+2002,M,35,EL,A,Married ,ST,3,348,YES
+2002,M,50,OA,W,Married ,UE,3,0,NO
+2002,F,23,IN,W,Married ,UE,4,0,YES
+2002,F,38,EL,B,Widower,UE,3,0,YES
+2002,M,10,IN,W,NeverMarried,UE,4,0,NO
+2002,F,40,OA,W,Separated,UE,3,0,YES
+2002,M,38,OA,W,Married ,E,3,0,YES
+2002,M,28,EL,A,NeverMarried,O,4,140,YES
+2002,F,37,EL,W,Married ,UE,3,0,YES
+2002,M,33,IN,W,Married ,UE,3,0,YES
+2002,M,20,IN,W,NeverMarried,UE,3,0,YES
+2002,M,32,IN,W,Married ,UE,4,0,YES
+2002,M,41,IN,W,Divorced,UE,4,0,YES
+2002,F,30,EL,W,NeverMarried,UE,3,0,YES
+2002,F,37,OA,W,Widower,UE,3,0,YES
+2002,M,31,EL,W,NeverMarried,UE,3,78,YES
+2002,M,38,OA,W,Married ,UE,3,122,YES
+2002,M,35,EL,A,NeverMarried,UE,3,0,YES
+2002,F,27,EL,W,Widower,UE,3,0,NO
+2002,F,32,EL,W,Married ,UE,3,0,YES
+2002,F,25,EL,A,Married ,ST,3,0,YES
+2002,F,43,OA,W,Widower,ST,3,0,NO
+2002,M,1,IN,D,NeverMarried,O,3,0,YES
+2002,F,29,EL,W,Married ,UE,3,0,YES
+2002,F,25,EL,W,Widower,O,4,0,NO
+2002,F,11,EL,P,NeverMarried,UE,3,31,YES
+2002,F,55,OA,W,Divorced,UE,2,51,YES
+2002,F,40,OA,W,Widower,UE,3,0,YES
+2002,F,30,EL,W,Divorced,UE,3,0,YES
+2002,F,35,EL,W,Divorced,UE,1,0,NO
+2002,M,18,EL,W,NeverMarried,UE,3,0,YES
+2002,F,26,EL,B,Divorced,UE,4,0,YES
+2002,F,25,EL,W,Married ,UE,3,0,YES
+2002,F,40,OA,W,Widower,UE,1,0,YES
+2002,F,25,EL,W,Married ,UE,3,0,YES
+2002,F,40,EL,W,Separated,O,3,0,NO
+2002,F,30,IN,W,Married ,SE,2,0,NO
+2002,F,20,IN,W,Widower,UE,4,0,YES
+2002,F,8,EL,A,NeverMarried,UE,1,0,NO
+2002,F,35,EL,W,NeverMarried,UE,3,0,YES
+2002,F,30,EL,A,Widower,SE,3,0,YES
+2002,M,24,EL,W,NeverMarried,E,3,0,YES
